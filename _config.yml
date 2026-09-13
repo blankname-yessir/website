@@ -1,5 +1,12 @@
-title: My Blog
-description: One paragraph about what this site is. Replace me.
+title: Jhi Aitken
+tagline: Co-founder of HardStop.
+description: >-
+  I'm motivated by building things that haven't been done before. Right now
+  that means HardStop, a way for adults and kids to block the content they
+  don't want in their lives, whether it's for themselves or their children.
+  I write here mostly for myself: to consolidate my ideas and to have an
+  outlet for my own creativity and expression. If you've stumbled across it
+  and find something of value, all the better.
 url: "https://jhiaitken.com"
 permalink: /:year/:month/:day/:title/
 markdown: kramdown

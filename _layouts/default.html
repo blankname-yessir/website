@@ -6,21 +6,32 @@
 <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
 <link rel="alternate" type="application/rss+xml" href="{{ '/feed.xml' | relative_url }}">
 <style>
-  body { max-width: 42rem; margin: 3rem auto; padding: 0 1.25rem; font: 18px/1.6 Georgia, "Times New Roman", serif; color: #222; background: #fff; }
-  a { color: #0645ad; }
-  header a { color: inherit; text-decoration: none; font-weight: bold; }
-  h1 { font-size: 1.8rem; line-height: 1.2; }
-  .posts { list-style: none; padding: 0; }
-  .posts li { margin: 0.6rem 0; }
-  .posts time { color: #777; font-size: 0.9rem; margin-right: 0.75rem; }
-  .meta { color: #777; font-size: 0.9rem; }
-  img { max-width: 100%; }
-  pre { overflow-x: auto; background: #f6f6f6; padding: 1rem; }
-  footer { margin-top: 4rem; color: #777; font-size: 0.85rem; }
+  :root { --bg: #faf9f6; --text: #111; --muted: #6b6b6b; --rule: #e6e3dc; }
+  * { box-sizing: border-box; }
+  body { max-width: 38rem; margin: 0 auto; padding: 4rem 1.5rem 5rem; font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif; color: var(--text); background: var(--bg); }
+  a { color: var(--text); }
+  a:hover { color: var(--muted); }
+  h1 { font-size: 1.75rem; font-weight: 600; line-height: 1.2; margin: 0 0 0.25rem; letter-spacing: -0.01em; }
+  h2 { font-size: 1.1rem; font-weight: 600; margin: 3rem 0 1rem; }
+  .tagline { margin: 0 0 1.25rem; color: var(--muted); font-size: 1rem; }
+  .blurb { font-size: 0.95rem; color: #333; }
+  .posts { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--rule); }
+  .posts li { display: flex; gap: 1rem; padding: 0.7rem 0; border-bottom: 1px solid var(--rule); }
+  .posts time { color: var(--muted); font-size: 0.85rem; flex: 0 0 6.5rem; padding-top: 0.15rem; }
+  .posts a { text-decoration: none; }
+  .posts a:hover { text-decoration: underline; }
+  .post h1 { margin-bottom: 0.25rem; }
+  .meta { color: var(--muted); font-size: 0.85rem; margin: 0 0 2rem; }
+  .post img { max-width: 100%; }
+  .post pre { overflow-x: auto; background: #f0eee8; padding: 1rem; font-size: 0.85rem; }
+  .post blockquote { margin: 1.5rem 0; padding-left: 1rem; border-left: 2px solid var(--rule); color: #444; }
+  nav.home { margin-bottom: 2.5rem; font-size: 0.9rem; }
+  nav.home a { text-decoration: none; color: var(--muted); }
+  footer { margin-top: 4rem; color: var(--muted); font-size: 0.8rem; }
 </style>
 </head>
 <body>
-<header><a href="{{ '/' | relative_url }}">{{ site.title }}</a></header>
+{% if page.layout == "post" %}<nav class="home"><a href="{{ '/' | relative_url }}">← {{ site.title }}</a></nav>{% endif %}
 <main>
 {{ content }}
 </main>
