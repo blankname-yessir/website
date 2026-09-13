@@ -6,6 +6,6 @@ writing: >-
   I write to consolidate my thinking and to understand my own thoughts.
   If it helps anyone else along the way, that's great.
 url: "https://jhiaitken.com"
-permalink: /:year/:month/:day/:title/
+permalink: /thoughts/:title/
 markdown: kramdown
 exclude: [README.md]
