@@ -4,7 +4,7 @@ title: "AI Changes Everything, Except Us"
 ---
 I look at my desk. There's a chunk of plastic with letters printed on it. Beside it, a lump designed to fit my hand. I ask, how many layers of abstraction sit between me and using my computer?
 
-Nobody taught me how to speak. I learned it easily the way every child does. And yet the way I talk to a machine is by slapping my fingertips on plastic or pressing my thumbs against glass.
+Nobody taught me how to speak. I learned easily, the way every child does. And yet the way I talk to a machine is by slapping my fingertips on plastic or pressing my thumbs against glass.
 
 Is it possible computers will use computers better than we do?
 
