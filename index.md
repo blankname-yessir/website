@@ -3,7 +3,6 @@ layout: default
 ---
 <h1>{{ site.title }}</h1>
 <p class="blurb">{{ site.description }}</p>
-<p class="blurb">{{ site.writing }}</p>
 
 <h2>My thoughts in writing</h2>
 {% if site.posts.size > 0 %}
