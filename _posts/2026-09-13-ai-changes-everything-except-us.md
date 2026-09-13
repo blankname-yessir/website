@@ -30,9 +30,9 @@ AI will bring autonomy to a level we've never seen before, but we'll rally to fi
 
 So we just chase endless desires and then die?
 
-Underneath the desire for more sits something more human. The desire to connect. To break bread with our brothers and sisters. To make music, to play, to compete, to cook for someone, to make art, to be seen by someone. Camaraderie. Saying the thing you're scared to say and watching someone not leave.
+Underneath the desire for more sits something more human. The desire to connect. To break bread with our people. To create, make art, compete, give, be seen.
 
-That craving is not going to be surpassed by data centers. Only strengthen it.
+These cravings are not going to be surpassed by data centers. It'll only strengthen it.
 
 Everything about how we work changes. Nothing about what we want changes.
 
