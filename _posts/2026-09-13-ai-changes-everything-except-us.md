@@ -12,8 +12,6 @@ Human anatomy is suited for building fires, picking berries, and chasing down wi
 
 The dream is that technology will bring so much abundance, riches and energy on autopilot that we don't have to do anything. It has been sold to us before, but that's nothing compared to what's about to come.
 
-Why would a machine care, though? A machine has no desire. No purpose, no itch for a better future. Luckily for us, humans crave more, no matter how much we get. Thank goodness for that, right?
-
 Automate everything so we can do what we want… wait, what do we want?
 
 Washing machines, emails, robot vacuum cleaners. Each sold on the same promise - this will free you up to do more of the things you want.
@@ -26,13 +24,15 @@ Does our desire for more make us broken?
 
 It's one of the things that sets us apart from every other animal. We reach a certain level of abundance, discover what else is possible and perceive lack. What an intelligent monkey.
 
+Why would a machine care, though? A machine has no desire. No purpose, no itch for a better future. Luckily for us, humans crave more, no matter how much we get. Thank goodness for that, right?
+
 AI will bring autonomy to a level we've never seen before, but we'll rally to fill every minute. Work will look different. Our craving for more will deepen and continue the endless hamster wheel of feeling like we're just a few steps away. But ultimately, we don't actually want to arrive.
 
 So we just chase endless desires and then die?
 
-Underneath the desire for more sits something more human. The desire to connect. To break bread with our people. To create, make art, compete, give, be seen.
+Underneath the desire for more sits something more human. The desire to connect. To break bread with our people. To create, make art, compete, contribute, be seen - the list goes on.
 
-These cravings are not going to be surpassed by data centers. It'll only strengthen it.
+These cravings are not going to be surpassed by data centers. It'll only strengthen them.
 
 Everything about how we work changes. Nothing about what we want changes.
 
