@@ -1,6 +1,6 @@
 title: My Blog
 description: One paragraph about what this site is. Replace me.
-url: "https://example.com"
+url: "https://jhiaitken.com"
 permalink: /:year/:month/:day/:title/
 markdown: kramdown
 exclude: [README.md]
