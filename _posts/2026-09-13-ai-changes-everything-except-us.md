@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Changes Everything, Except Us"
+title: "Ai changes everything, except us"
 ---
 I look at my desk. There's a chunk of plastic with letters printed on it. Beside it, a lump designed to fit my hand. I ask, how many layers of abstraction sit between me and using my computer?
 
