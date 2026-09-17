@@ -4,7 +4,7 @@ title: "The illusion of not knowing"
 ---
 Note to self:
 
-Somewhere underneath the noise you know exactly what you are. You can experience yourself fully at any moment, but it's easier to distract yourself.
+Underneath the noise you know exactly what you are. You can experience yourself fully at any moment, but it's easier to distract yourself.
 
 Connecting to yourself means losing yourself
 
